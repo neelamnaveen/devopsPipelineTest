@@ -1,6 +1,3 @@
-[![Build Status](https://dev.azure.com/RA313647/Slingshot/_apis/build/status/neelamnaveen.devopsPipelineTest?branchName=main)](https://dev.azure.com/RA313647/Slingshot/_build/latest?definitionId=2&branchName=main)
-
-https://dev.azure.com/RA313647/Slingshot/_apis/build/status/neelamnaveen.devopsPipelineTest?branchName=main
 
 ---
 page_type: sample
