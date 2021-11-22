@@ -1,3 +1,5 @@
+[![Build Status](https://dev.azure.com/RA313647/Slingshot/_apis/build/status/neelamnaveen.devopsPipelineTest?branchName=main)](https://dev.azure.com/RA313647/Slingshot/_build/latest?definitionId=2&branchName=main)
+
 ---
 page_type: sample
 languages:
@@ -27,3 +29,5 @@ This is a basic Express.js server used for JS Dev Experience documentation, in p
     ```bash
     npm start
     ```
+    
+    
